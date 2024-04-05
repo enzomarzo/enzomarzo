@@ -3,6 +3,8 @@
 
 Passionate and enthusiastic about problem-solving through technology.
 
-My coding journey began in 2019, and I also used GitLab during my eperience at Merkle (2021-2023) and Bitbucket while at Corporating (2019-2020).
+I'm currently using this account for my job, but in all my previous jobs, I used another account. That's why you can't see much interaction here. I've also tried GitLab and Bitbucket.
 
-My primary focus has been on front-end development. I worked extensively with Angular in 2019 / 20, followed by working with Vanilla JS/TS and React throughout 2021 / 22 / 23. Additionally, I have enhanced my skills in React, Redux, and Jest from 2023 onwards
+My coding journey kicked off in 2019. Spent a good year working with Angular, then I jumped into different projects with React and its crew (Redux, ContextAPI, Next.js) alongside TypeScript, Jest, REST, GraphQL, Less, Sass, Tailwind, and other cool stuff along the way.
+
+I spend a lot more time learning through reading and writing, watching videos, blogs, and creating simple POVS on VSCode to understand new concepts than creating side projects here on GH.
