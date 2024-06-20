@@ -3,6 +3,4 @@
 
 Passionate and enthusiastic about problem-solving through technology.
 
-I'm currently using this account for my job, but in all my previous jobs, I used another account. That's why you can't see much interaction here. I've also tried GitLab and Bitbucket.
-
-My coding journey kicked off in 2019. Spent a good year working with Angular, then I jumped into different projects with React and its crew (Redux, ContextAPI, Next.js) alongside TypeScript, Jest, REST, GraphQL, Less, Sass, Tailwind, and other cool stuff along the way.
+My coding journey kicked off in 2019. Spent a year working with Angular, then I jumped into different projects with React and its crew (Redux, ContextAPI, Next.js) alongside TypeScript, Jest, REST, GraphQL, Less, Sass, Tailwind, Next, Node and other cool stuff along the way.
